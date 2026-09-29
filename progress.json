@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:47:49.731Z",
+  "generated_at": "2026-09-29T13:54:28.997Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-09-29T09:47:48.504Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1143": {
+      "kind": "problem",
+      "id": "1143",
+      "title": "Online Rolling Z-Score over a Fixed Window",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1143",
+      "path": "problems/1143-online-rolling-z-score-over-a-fixed-window",
+      "first_solved_at": "2026-09-29T13:54:27.709Z",
+      "last_pushed_at": "2026-09-29T13:54:27.709Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
