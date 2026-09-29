@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:56:14.037Z",
+  "generated_at": "2026-09-29T09:47:49.731Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -117,6 +117,19 @@
       "last_pushed_at": "2026-09-25T10:56:12.904Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:846": {
+      "kind": "problem",
+      "id": "846",
+      "title": "Feature Hashing Trick for Sparse Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/846",
+      "path": "problems/0846-feature-hashing-trick-for-sparse-features",
+      "first_solved_at": "2026-09-29T09:47:48.504Z",
+      "last_pushed_at": "2026-09-29T09:47:48.504Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
