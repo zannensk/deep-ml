@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:37:13.713Z",
+  "generated_at": "2026-10-08T15:41:44.908Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -247,6 +247,19 @@
       "last_pushed_at": "2026-10-08T10:37:12.507Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:263": {
+      "kind": "problem",
+      "id": "263",
+      "title": "Implement Binary Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/263",
+      "path": "problems/0263-implement-binary-cross-entropy-loss",
+      "first_solved_at": "2026-10-08T15:41:43.345Z",
+      "last_pushed_at": "2026-10-08T15:41:43.345Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
