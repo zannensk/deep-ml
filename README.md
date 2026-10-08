@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 17 problems · 0 labs · 0 math
+**18** solved · 18 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-09-29 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-09-25 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-09-25 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
+| [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-10-08 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Online Mean and Variance with Welford's Algorithm](https://www.deep-ml.com/problems/1144) | medium | 2026-09-29 | [solution](problems/1144-online-mean-and-variance-with-welford-s-algorithm) |
 | [Online Rolling Z-Score over a Fixed Window](https://www.deep-ml.com/problems/1143) | medium | 2026-09-29 | [solution](problems/1143-online-rolling-z-score-over-a-fixed-window) |
 | [Ranking Metrics: NDCG@k, MRR and MAP@k](https://www.deep-ml.com/problems/1408) | medium | 2026-10-01 | [solution](problems/1408-ranking-metrics-ndcg-k-mrr-and-map-k) |
