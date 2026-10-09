@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:41:44.908Z",
+  "generated_at": "2026-10-09T09:57:39.571Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -260,6 +260,19 @@
       "last_pushed_at": "2026-10-08T15:41:43.345Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:384": {
+      "kind": "problem",
+      "id": "384",
+      "title": "Contrastive Loss (InfoNCE / SimCLR-style)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/384",
+      "path": "problems/0384-contrastive-loss-infonce-simclr-style",
+      "first_solved_at": "2026-10-09T09:57:38.509Z",
+      "last_pushed_at": "2026-10-09T09:57:38.509Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
