@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:33:24.946Z",
+  "generated_at": "2026-10-09T17:42:34.256Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -312,6 +312,19 @@
       "last_pushed_at": "2026-10-09T16:33:23.532Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:255": {
+      "kind": "problem",
+      "id": "255",
+      "title": "Implement Focal Loss for Imbalanced Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/255",
+      "path": "problems/0255-implement-focal-loss-for-imbalanced-classification",
+      "first_solved_at": "2026-10-09T17:42:32.742Z",
+      "last_pushed_at": "2026-10-09T17:42:32.742Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
