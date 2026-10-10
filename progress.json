@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:00:42.617Z",
+  "generated_at": "2026-10-10T10:03:29.529Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -349,6 +349,19 @@
       "path": "problems/0076-calculate-cosine-similarity-between-vectors",
       "first_solved_at": "2026-10-10T09:00:41.587Z",
       "last_pushed_at": "2026-10-10T09:00:41.587Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:1072": {
+      "kind": "problem",
+      "id": "1072",
+      "title": "Pairwise Cosine Similarity Matrix",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1072",
+      "path": "problems/1072-pairwise-cosine-similarity-matrix",
+      "first_solved_at": "2026-10-10T10:03:27.921Z",
+      "last_pushed_at": "2026-10-10T10:03:27.921Z",
       "language": "python",
       "lines": 17
     }
