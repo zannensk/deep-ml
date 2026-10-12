@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:19:51.421Z",
+  "generated_at": "2026-10-12T13:37:32.896Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -416,6 +416,19 @@
       "last_pushed_at": "2026-10-12T09:19:50.014Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:1083": {
+      "kind": "problem",
+      "id": "1083",
+      "title": "Implement a Trie for Prefix Matching",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1083",
+      "path": "problems/1083-implement-a-trie-for-prefix-matching",
+      "first_solved_at": "2026-10-12T13:37:31.639Z",
+      "last_pushed_at": "2026-10-12T13:37:31.639Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
