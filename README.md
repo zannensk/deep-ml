@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 33 problems · 0 labs · 0 math
+**34** solved · 34 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-09-21 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-10-09 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-09-22 | [solution](problems/0413-end-to-end-latency-decomposition) |
+| [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-10-12 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-09-29 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-09-25 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-10-10 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
