@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 34 problems · 0 labs · 0 math
+**35** solved · 35 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-10-10 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-09-25 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-09 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-10-12 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-10-10 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-10-12 | [solution](problems/0090-bm25-ranking) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-09-30 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
