@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 37 problems · 0 labs · 0 math
+**38** solved · 38 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Focal Loss for Imbalanced Classification](https://www.deep-ml.com/problems/255) | medium | 2026-10-09 | [solution](problems/0255-implement-focal-loss-for-imbalanced-classification) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-09-25 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Graph Convolution Network (GCN) Layer](https://www.deep-ml.com/problems/453) | medium | 2026-10-10 | [solution](problems/0453-implement-graph-convolution-network-gcn-layer) |
+| [Implement Isolation Forest for Anomaly Detection](https://www.deep-ml.com/problems/367) | medium | 2026-10-13 | [solution](problems/0367-implement-isolation-forest-for-anomaly-detection) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-10-08 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-10-08 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-09 | [solution](problems/0275-implement-stratified-train-test-split) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:08:37.922Z",
+  "generated_at": "2026-10-13T13:09:52.432Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -481,6 +481,19 @@
       "last_pushed_at": "2026-10-12T16:08:36.405Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:367": {
+      "kind": "problem",
+      "id": "367",
+      "title": "Implement Isolation Forest for Anomaly Detection",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/367",
+      "path": "problems/0367-implement-isolation-forest-for-anomaly-detection",
+      "first_solved_at": "2026-10-13T13:09:50.442Z",
+      "last_pushed_at": "2026-10-13T13:09:50.442Z",
+      "language": "python",
+      "lines": 81
     }
   }
 }
