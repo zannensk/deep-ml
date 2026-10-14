@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:42:16.318Z",
+  "generated_at": "2026-10-14T16:16:40.301Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -557,6 +557,19 @@
       "path": "problems/0321-bleu-score-for-text-generation",
       "first_solved_at": "2026-10-14T13:42:14.725Z",
       "last_pushed_at": "2026-10-14T13:42:14.725Z",
+      "language": "python",
+      "lines": 58
+    },
+    "problem:110": {
+      "kind": "problem",
+      "id": "110",
+      "title": "Evaluate Translation Quality with METEOR Score",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/110",
+      "path": "problems/0110-evaluate-translation-quality-with-meteor-score",
+      "first_solved_at": "2026-10-14T16:16:38.876Z",
+      "last_pushed_at": "2026-10-14T16:16:38.876Z",
       "language": "python",
       "lines": 58
     }
