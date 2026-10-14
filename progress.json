@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:52:06.377Z",
+  "generated_at": "2026-10-14T09:10:22.278Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -520,6 +520,19 @@
       "last_pushed_at": "2026-10-13T16:52:04.242Z",
       "language": "python",
       "lines": 90
+    },
+    "problem:242": {
+      "kind": "problem",
+      "id": "242",
+      "title": "Non-Maximum Suppression for Object Detection",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/242",
+      "path": "problems/0242-non-maximum-suppression-for-object-detection",
+      "first_solved_at": "2026-10-14T09:10:20.962Z",
+      "last_pushed_at": "2026-10-14T09:10:20.962Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
