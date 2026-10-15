@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:07:48.260Z",
+  "generated_at": "2026-10-15T15:34:56.777Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -663,6 +663,19 @@
       "last_pushed_at": "2026-10-15T15:07:45.394Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:294": {
+      "kind": "problem",
+      "id": "294",
+      "title": "Implement INT8 Quantization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/294",
+      "path": "problems/0294-implement-int8-quantization",
+      "first_solved_at": "2026-10-15T15:34:54.206Z",
+      "last_pushed_at": "2026-10-15T15:34:54.206Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
