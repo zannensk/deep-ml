@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-09 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Online Mean and Variance with Welford's Algorithm](https://www.deep-ml.com/problems/1144) | medium | 2026-09-29 | [solution](problems/1144-online-mean-and-variance-with-welford-s-algorithm) |
 | [Online Rolling Z-Score over a Fixed Window](https://www.deep-ml.com/problems/1143) | medium | 2026-09-29 | [solution](problems/1143-online-rolling-z-score-over-a-fixed-window) |
+| [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-15 | [solution](problems/0801-polynomial-regression-fit) |
 | [Ranking Metrics: NDCG@k, MRR and MAP@k](https://www.deep-ml.com/problems/1408) | medium | 2026-10-01 | [solution](problems/1408-ranking-metrics-ndcg-k-mrr-and-map-k) |
 | [TTS Concurrent Real-Time Stream Capacity](https://www.deep-ml.com/problems/445) | medium | 2026-10-15 | [solution](problems/0445-tts-concurrent-real-time-stream-capacity) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-09-23 | [solution](problems/0347-xgboost-objective-function-calculation) |
