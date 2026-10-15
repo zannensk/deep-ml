@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:09:37.859Z",
+  "generated_at": "2026-10-15T09:26:54.062Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -585,6 +585,19 @@
       "last_pushed_at": "2026-10-15T09:09:35.481Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:445": {
+      "kind": "problem",
+      "id": "445",
+      "title": "TTS Concurrent Real-Time Stream Capacity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/445",
+      "path": "problems/0445-tts-concurrent-real-time-stream-capacity",
+      "first_solved_at": "2026-10-15T09:26:48.235Z",
+      "last_pushed_at": "2026-10-15T09:26:48.235Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
