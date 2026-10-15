@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 44 problems · 0 labs · 0 math
+**45** solved · 45 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-09 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-10-12 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-10-10 | [solution](problems/0144-apriori-frequent-itemset-mining) |
+| [ASR Real-Time Factor for Parallel Chunk Transcription](https://www.deep-ml.com/problems/444) | medium | 2026-10-15 | [solution](problems/0444-asr-real-time-factor-for-parallel-chunk-transcription) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-10-12 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-10-14 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-10-12 | [solution](problems/0090-bm25-ranking) |
