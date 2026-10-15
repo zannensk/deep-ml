@@ -14,26 +14,24 @@ def detect_feature_drift(reference_data: list, production_data: list, num_bins: 
     """
     if not reference_data or not production_data:
         return {}
-    
     ref = np.asarray(reference_data, dtype=float)
     prd = np.asarray(production_data, dtype=float)
 
     edges = np.histogram_bin_edges(
         np.concatenate([ref, prd]),
-        bins = num_bins
+        bins=num_bins
     )
+    ref_count, _ = np.histogram(ref, bins=edges)
+    prd_count, _ = np.histogram(prd, bins=edges)
 
-    ref_counts, _ = np.histogram(ref, bins=edges)
-    prd_counts, _ = np.histogram(prd, bins=edges)
-
-    q = ref_counts / len(ref)
-    p = prd_counts / len(prd)
+    q = ref_count / len(ref)
+    p = prd_count / len(prd)
     eps = 0.0001
-
     q = np.where(q==0, eps, q)
     p = np.where(p==0, eps, p)
 
     psi = float(np.sum((q - p) * np.log(q / p)))
+
     if psi < 0.1:
         level = "none"
     elif psi < 0.25:
@@ -46,3 +44,5 @@ def detect_feature_drift(reference_data: list, production_data: list, num_bins: 
         "drift_detected": bool(psi >= 0.1),
         "drift_level": level
     }
+
+
