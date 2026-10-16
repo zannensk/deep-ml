@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 52 problems · 0 labs · 0 math
+**53** solved · 53 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Prediction Distribution Monitoring](https://www.deep-ml.com/problems/295) | medium | 2026-10-15 | [solution](problems/0295-implement-prediction-distribution-monitoring) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-10-08 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-09 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-16 | [solution](problems/0227-knowledge-distillation-loss) |
 | [Online Mean and Variance with Welford's Algorithm](https://www.deep-ml.com/problems/1144) | medium | 2026-09-29 | [solution](problems/1144-online-mean-and-variance-with-welford-s-algorithm) |
 | [Online Rolling Z-Score over a Fixed Window](https://www.deep-ml.com/problems/1143) | medium | 2026-09-29 | [solution](problems/1143-online-rolling-z-score-over-a-fixed-window) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-15 | [solution](problems/0801-polynomial-regression-fit) |

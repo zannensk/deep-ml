@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:34:56.777Z",
+  "generated_at": "2026-10-16T00:18:03.470Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -676,6 +676,19 @@
       "last_pushed_at": "2026-10-15T15:34:54.206Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:227": {
+      "kind": "problem",
+      "id": "227",
+      "title": "Knowledge Distillation Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/227",
+      "path": "problems/0227-knowledge-distillation-loss",
+      "first_solved_at": "2026-10-16T00:18:00.430Z",
+      "last_pushed_at": "2026-10-16T00:18:00.430Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
