@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:39:24.340Z",
+  "generated_at": "2026-10-21T15:55:59.650Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -793,6 +793,19 @@
       "last_pushed_at": "2026-10-21T14:39:22.731Z",
       "language": "python",
       "lines": 86
+    },
+    "problem:1027": {
+      "kind": "problem",
+      "id": "1027",
+      "title": "Simulate DDP All-Reduce Gradient Averaging",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1027",
+      "path": "problems/1027-simulate-ddp-all-reduce-gradient-averaging",
+      "first_solved_at": "2026-10-21T15:55:57.714Z",
+      "last_pushed_at": "2026-10-21T15:55:57.714Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
