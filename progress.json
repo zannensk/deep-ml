@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:42:09.899Z",
+  "generated_at": "2026-10-21T14:39:24.340Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -780,6 +780,19 @@
       "last_pushed_at": "2026-10-21T11:42:05.892Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:506": {
+      "kind": "problem",
+      "id": "506",
+      "title": "Designing 4D Parallelism for Large Model Training",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/506",
+      "path": "problems/0506-designing-4d-parallelism-for-large-model-training",
+      "first_solved_at": "2026-10-21T14:39:22.731Z",
+      "last_pushed_at": "2026-10-21T14:39:22.731Z",
+      "language": "python",
+      "lines": 86
     }
   }
 }

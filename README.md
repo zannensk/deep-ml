@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 59 problems · 1 labs · 0 math
+**61** solved · 60 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [TTS Concurrent Real-Time Stream Capacity](https://www.deep-ml.com/problems/445) | medium | 2026-10-15 | [solution](problems/0445-tts-concurrent-real-time-stream-capacity) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-09-23 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-09-30 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
+| [Designing 4D Parallelism for Large Model Training](https://www.deep-ml.com/problems/506) | hard | 2026-10-21 | [solution](problems/0506-designing-4d-parallelism-for-large-model-training) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-10-13 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-09-30 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-14 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
