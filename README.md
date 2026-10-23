@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 62 problems · 1 labs · 0 math
+**64** solved · 63 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Isolation Forest for Anomaly Detection](https://www.deep-ml.com/problems/367) | medium | 2026-10-13 | [solution](problems/0367-implement-isolation-forest-for-anomaly-detection) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-10-08 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement Prediction Distribution Monitoring](https://www.deep-ml.com/problems/295) | medium | 2026-10-15 | [solution](problems/0295-implement-prediction-distribution-monitoring) |
+| [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-10-23 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-10-08 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-09 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-16 | [solution](problems/0227-knowledge-distillation-loss) |

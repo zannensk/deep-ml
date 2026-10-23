@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:35:29.545Z",
+  "generated_at": "2026-10-23T06:58:24.224Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -819,6 +819,19 @@
       "last_pushed_at": "2026-10-23T05:35:28.687Z",
       "language": "python",
       "lines": 74
+    },
+    "problem:297": {
+      "kind": "problem",
+      "id": "297",
+      "title": "Implement Request Batching for Inference",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/297",
+      "path": "problems/0297-implement-request-batching-for-inference",
+      "first_solved_at": "2026-10-23T06:58:23.305Z",
+      "last_pushed_at": "2026-10-23T06:58:23.305Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
