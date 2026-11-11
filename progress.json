@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:58:24.224Z",
+  "generated_at": "2026-11-11T13:32:52.983Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -832,6 +832,19 @@
       "last_pushed_at": "2026-10-23T06:58:23.305Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:449": {
+      "kind": "problem",
+      "id": "449",
+      "title": "Autoscaling Replica Simulator with SLA Tracking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/449",
+      "path": "problems/0449-autoscaling-replica-simulator-with-sla-tracking",
+      "first_solved_at": "2026-11-11T13:32:51.567Z",
+      "last_pushed_at": "2026-11-11T13:32:51.567Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }
