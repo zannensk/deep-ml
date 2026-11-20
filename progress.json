@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:26:41.794Z",
+  "generated_at": "2026-11-20T08:42:16.464Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -871,6 +871,19 @@
       "last_pushed_at": "2026-11-20T08:26:40.800Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:1163": {
+      "kind": "problem",
+      "id": "1163",
+      "title": "Dot Product of Two Sparse Vectors",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1163",
+      "path": "problems/1163-dot-product-of-two-sparse-vectors",
+      "first_solved_at": "2026-11-20T08:42:15.501Z",
+      "last_pushed_at": "2026-11-20T08:42:15.501Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }

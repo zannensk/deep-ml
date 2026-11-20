@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 66 problems · 1 labs · 0 math
+**68** solved · 67 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-09-21 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
 | [Calculate Statistical Power for Experiment Design](https://www.deep-ml.com/problems/296) | medium | 2026-11-20 | [solution](problems/0296-calculate-statistical-power-for-experiment-design) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-10-09 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
+| [Dot Product of Two Sparse Vectors](https://www.deep-ml.com/problems/1163) | medium | 2026-11-20 | [solution](problems/1163-dot-product-of-two-sparse-vectors) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-09-22 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-10-12 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-10-14 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
