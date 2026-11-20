@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:42:16.464Z",
+  "generated_at": "2026-11-20T08:59:40.876Z",
   "items": {
     "problem:260": {
       "kind": "problem",
@@ -884,6 +884,19 @@
       "last_pushed_at": "2026-11-20T08:42:15.501Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:822": {
+      "kind": "problem",
+      "id": "822",
+      "title": "Gaussian Random Projection (Johnson-Lindenstrauss)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/822",
+      "path": "problems/0822-gaussian-random-projection-johnson-lindenstrauss",
+      "first_solved_at": "2026-11-20T08:59:39.710Z",
+      "last_pushed_at": "2026-11-20T08:59:39.710Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

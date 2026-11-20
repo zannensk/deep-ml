@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 67 problems · 1 labs · 0 math
+**69** solved · 68 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-10-14 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Feature Drift Detection using Population Stability Index](https://www.deep-ml.com/problems/253) | medium | 2026-10-15 | [solution](problems/0253-feature-drift-detection-using-population-stability-index) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-09-29 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
+| [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-11-20 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-09-25 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-10-10 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement a Trie for Prefix Matching](https://www.deep-ml.com/problems/1083) | medium | 2026-10-12 | [solution](problems/1083-implement-a-trie-for-prefix-matching) |
