@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 65 problems · 1 labs · 0 math
+**67** solved · 66 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-23 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Build a Multi-Armed Bandit Testbed](https://www.deep-ml.com/problems/542) | easy | 2026-10-12 | [solution](problems/0542-build-a-multi-armed-bandit-testbed) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-10-10 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-11-20 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-09-22 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-16 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-10-14 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
