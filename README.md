@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 64 problems · 1 labs · 0 math
+**66** solved · 65 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-10-12 | [solution](problems/0090-bm25-ranking) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-09-30 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-09-21 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
+| [Calculate Statistical Power for Experiment Design](https://www.deep-ml.com/problems/296) | medium | 2026-11-20 | [solution](problems/0296-calculate-statistical-power-for-experiment-design) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-10-09 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-09-22 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-10-12 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
